@@ -26,3 +26,6 @@ s3_upload-*.tar
 /config/*.secrets.exs
 .env
 
+# upload test file
+hello_world.txt
+
